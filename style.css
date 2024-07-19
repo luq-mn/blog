@@ -55,3 +55,8 @@ a {
     text-align: center;
     font-family: Helvetica;
 }
+
+img {
+    padding-left: 25%;
+    padding-right: 25%;
+}
